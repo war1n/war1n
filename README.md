@@ -7,3 +7,6 @@ I'm currently doing my own data analysis project using both in GitHub and Tablea
 * My tableau public : [Warinthon Baicharoen](https://public.tableau.com/app/profile/warinthon)
 
 Feel free to leave any comment
+Contact 
+* Email : Warinthon.bai@gmail.com
+* Facebook : Warinthon Baicharoen
