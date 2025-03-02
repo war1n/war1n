@@ -10,7 +10,7 @@ I hold a Business School degree but found my passion in **Data Science**. Curren
 ## Explore My Work  
 Check out work here: 
 * Loan Default Prediction : [Loan_default_prediction]([your-portfolio-link](https://github.com/war1n/Loan-Default-Prediction))
-* My tableau public : [Warinthon Baicharoen](https://public.tableau.com/app/profile/warinthon)
+* My tableau public : [here](https://public.tableau.com/app/profile/warinthon)
 
 Feel free to leave any comment
 Contact 
